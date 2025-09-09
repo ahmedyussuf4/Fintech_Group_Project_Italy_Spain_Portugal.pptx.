@@ -1,4 +1,3 @@
-# Fintech_Group_Project_Italy_Spain_Portugal.pptx.
 # 🌍 Fintech Group Project — Italy, Spain, Portugal
 
 This repository contains a group presentation analyzing the fintech ecosystems in **Italy**, **Spain**, and **Portugal**.  
