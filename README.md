@@ -12,10 +12,6 @@ This repository contains a group presentation analyzing the fintech ecosystems i
 - Spain: Thriving fintech adoption but limited awareness and funding challenges.  
 - Portugal: Strong IT talent and startup-friendly ecosystem but struggles with scaling and financial literacy.  
 
-## 📊 Presentation
-Download and view the PowerPoint here:  
-**[Fintech_Group_Project_Italy_Spain_Portugal.pptx](./Fintech_Group_Project_Italy_Spain_Portugal.pptx)**
-
 ## 👥 Team
 - Mckenna Davies  
 - Tiernan Geary  
