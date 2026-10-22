@@ -20,3 +20,4 @@ This repository contains a group presentation analyzing the fintech ecosystems i
 - Daylen Bowen  
 
 ---
+[Fintech Group Project Italy^J Spain^J Portugal 2 (4).pptx](https://github.com/user-attachments/files/33800458/Fintech.Group.Project.Italy.J.Spain.J.Portugal.2.4.pptx)
