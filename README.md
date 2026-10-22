@@ -20,7 +20,6 @@ This repository contains a group presentation analyzing the fintech ecosystems i
 - Daylen Bowen  
 
 ## 📊 Presentation
+You can download or view the full slide deck here:
 [Fintech.Group.Project.Italy.J.Spain.J.Portugal.2.4.pdf](https://github.com/user-attachments/files/33800594/Fintech.Group.Project.Italy.J.Spain.J.Portugal.2.4.pdf)
 ---
-
-[Fintech.Group.Project.Italy.J.Spain.J.Portugal.2.4.pdf](https://github.com/user-attachments/files/33800594/Fintech.Group.Project.Italy.J.Spain.J.Portugal.2.4.pdf)
