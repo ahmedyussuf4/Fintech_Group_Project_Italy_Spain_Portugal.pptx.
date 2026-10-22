@@ -19,5 +19,8 @@ This repository contains a group presentation analyzing the fintech ecosystems i
 - Asad Yussuf  
 - Daylen Bowen  
 
+## 📊 Presentation
+[Fintech.Group.Project.Italy.J.Spain.J.Portugal.2.4.pdf](https://github.com/user-attachments/files/33800594/Fintech.Group.Project.Italy.J.Spain.J.Portugal.2.4.pdf)
 ---
+
 [Fintech.Group.Project.Italy.J.Spain.J.Portugal.2.4.pdf](https://github.com/user-attachments/files/33800594/Fintech.Group.Project.Italy.J.Spain.J.Portugal.2.4.pdf)
